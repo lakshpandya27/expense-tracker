@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": "05b2",
+      "username": "admin",
+      "email": "abiselva254@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "d077",
+      "username": "abinesh",
+      "email": "abiselva254@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "fb9c",
+      "username": "aza",
+      "email": "abiselva254@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "94e4",
+      "username": "azax",
+      "email": "abiselva254@gmail.com",
+      "password": "xaxax"
+    },
+    {
+      "id": "77b3",
+      "username": "ram",
+      "email": "abiselva254@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "student": [
+    {
+      "id": "932b",
+      "name": "abi",
+      "marks": "123",
+      "iq": "asad",
+      "img": "https://www.bing.com/images/search?view=detailV2&ccid=tL1dKiGc&id=D6256D6102C64EA49BB09A8F763565387914DD68&thid=OIP.tL1dKiGcEl_zmAltMAiCDQHaHa&mediaurl=https%3a%2f%2fwww.pngmart.com%2ffiles%2f15%2fSmiling-Business-Man-Standing-PNG-Image.png&exph=693&expw=693&q=person+png+images&simid=608025382512316570&FORM=IRPRST&ck=D03DF2A6853681B44A84A27FC0A8D3D0&selectedIndex=18&itb=1"
+    },
+    {
+      "id": "b02c",
+      "name": "adad",
+      "marks": "adsasd",
+      "iq": "asas",
+      "img": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?cs=srgb&dl=pexels-simon-robben-614810.jpg&fm=jpg"
+    },
+    {
+      "id": "ee2a",
+      "name": "",
+      "marks": "",
+      "iq": "",
+      "img": ""
+    }
+  ]
+}
